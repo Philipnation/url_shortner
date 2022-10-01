@@ -1,0 +1,1 @@
+Converted with pyinstaller. The app works prefectly fine
